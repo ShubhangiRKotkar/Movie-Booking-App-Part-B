@@ -1,8 +1,8 @@
-form {
-  display: flex;
+form{
+  display : flex;
   flex-direction: column;
   justify-content: space-around;
 }
-.success {
-  color: #4caf50;
+.success{
+  color : #4caf50;
 }

@@ -1,7 +1,7 @@
 import { AppBar, Tabs, Tab, Box, Typography, FormControl, TextField, Button } from "@material-ui/core";
 import React, { useState, useReducer } from "react";
 import ReactModal from "react-modal";
-import "./modal.css";
+import "./Modal.css";
 import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles(()=>({

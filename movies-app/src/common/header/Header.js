@@ -6,7 +6,7 @@ import Button from '@material-ui/core/Button';
 import { Typography } from "@material-ui/core";
 import { Link } from "react-router-dom";
 import BookShow from "../../screens/bookshow/BookShow"
-import Modal from "../modals/modal"
+import Modal from "../modals/Modal"
 import { Alert } from '@material-ui/lab';
 
 // The header consisting of the logo and required buttons
